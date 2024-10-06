@@ -1,0 +1,12 @@
+[submodule "deps/MaterialX"]
+	path = deps/MaterialX
+	url = https://github.com/AcademySoftwareFoundation/MaterialX
+[submodule "deps/RadeonProRenderUSD"]
+	path = deps/RadeonProRenderUSD
+	url = https://github.com/GPGPU-Desigh-Agents/RadeonProRenderUSD
+[submodule "deps/USD"]
+	path = deps/USD
+	url = https://github.com/PixarAnimationStudios/USD
+[submodule "deps/RenderStudioKit"]
+	path = deps/RenderStudioKit
+	url = git@github.com:Radeon-Pro/RenderStudioKit.git
